@@ -1,0 +1,19 @@
+.country {
+    width: 320px; /* Adjust width */
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ccc; /* Box border */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+    font-family: Arial, sans-serif; /* Font style */
+}
+
+.country-box h2 {
+    font-size: 20px; /* Heading size */
+    margin-bottom: 10px;
+}
+
+.country-box p {
+    font-size: 16px; /* Paragraph size */
+    margin: 5px 0;
+}
