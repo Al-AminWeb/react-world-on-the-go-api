@@ -11,7 +11,7 @@ const Country = ({country,handleVisitedCountries}) => {
        // }
        // else setVisited(true)
         setVisited(!visited)
-        handleVisitedCountries();
+        handleVisitedCountries(country);
     }
     return (
         <div className={`country ${visited && 'country-visited'}`}>
