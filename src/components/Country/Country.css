@@ -8,12 +8,16 @@
     font-family: Arial, sans-serif; /* Font style */
 }
 
-.country-box h2 {
-    font-size: 20px; /* Heading size */
-    margin-bottom: 10px;
-}
+/*.country-box h2 {*/
+/*    font-size: 20px; !* Heading size *!*/
+/*    margin-bottom: 10px;*/
+/*}*/
 
-.country-box p {
-    font-size: 16px; /* Paragraph size */
-    margin: 5px 0;
+/*.country-box p {*/
+/*    font-size: 16px; !* Paragraph size *!*/
+/*    margin: 5px 0;*/
+/*}*/
+
+.country-visited{
+    background-color: mediumaquamarine;
 }
